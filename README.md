@@ -1,6 +1,6 @@
 # Hi, I'm Belyse Munezero 👋
 
-I'm a student at Amherst College studying Mathematics & Statistics
+I'm a sophomore student at Amherst College studying Mathematics & Statistics
 and Computer Science.
 
 ## About Me
