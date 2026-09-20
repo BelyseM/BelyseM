@@ -28,6 +28,27 @@ solve real-world problems. My interests include:
 **Languages:** Python, Java, R, SQL  
 **Interests:** Machine Learning, Data Science, Statistics, AI
 
+## Featured Projects
+
+### AI4ALL — Skin Lesion Classification
+
+**AI4ALL Ignite | Group 17A | Summer 2026**
+
+Collaborative machine learning project focused on improving skin-lesion
+classification across diverse skin tones.
+
+**My contributions:**
+- Cleaned, analyzed, and visualized dermatology datasets
+- Worked with HAM10000 and Diverse Dermatology Images (DDI)
+- Developed and evaluated ANN and CNN models
+- Explored EfficientNet transfer learning
+- Investigated model performance and fairness across skin tones
+
+**Technologies:** Python · TensorFlow · Keras · CNNs · EfficientNet ·
+Machine Learning
+
+[View the project on GitHub →](https://github.com/bamiboy237/AI4ALL_17A)
+
 ## Connect With Me
 
 [LinkedIn](https://www.linkedin.com/in/belyse-munezero-041253372/)
