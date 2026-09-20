@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Belyse Munezero 👋
 
-<!--
-**BelyseM/BelyseM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student at Amherst College studying Mathematics & Statistics
+and Computer Science.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm interested in using mathematics, statistics, and computing to
+solve real-world problems. My interests include:
+
+- 🤖 Artificial Intelligence & Machine Learning
+- 📊 Data Science & Analytics
+- 🧮 Applied Mathematics & Statistics
+- 💻 Software Engineering
+- 💰 Finance & Quantitative Analysis
+- 💼 Business & Technology
+- ⚽ Sports Analytics
+
+## What I'm Working On
+
+- AI/ML projects
+- Data analysis and visualization
+- Computer science coursework and projects
+- Exploring applications of mathematics and statistics
+
+## Technical Skills
+
+**Languages:** Python, Java, R, SQL  
+**Interests:** Machine Learning, Data Science, Statistics, AI
+
+## Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/belyse-munezero-041253372/)
